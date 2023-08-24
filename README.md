@@ -1,5 +1,6 @@
 # Aula-C-UTFPR
-Atividaes proposta pela UTFPR - Universidade Tecnologica Federal do Paraná.
+Atividades proposto pelo curso de Engenharia de Software
+## Instituição: UTFPR - Universidade Tecnologica Federal do Paraná.
 
 Aula deram inicio no dia 9/08/2023
 Tendo como professores de Algoritimos 1
